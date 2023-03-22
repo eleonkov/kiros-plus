@@ -24,14 +24,14 @@
     /*==================================
      # home page one - slide Item Carousel 
      ==================================*/
-    $('.hero-slides, .hero-slider').owlCarousel({
-        items: 1,
-        autoplay: true,
-        loop: true,
-        margin: 0,
-        nav: false,
-        dots: false,
-    });
+//     $('.hero-slides, .hero-slider').owlCarousel({
+//         items: 1,
+//         autoplay: true,
+//         loop: true,
+//         margin: 0,
+//         nav: false,
+//         dots: false,
+//     });
 
     /*==================================
      # Portfolio Item Carousel 
